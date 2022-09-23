@@ -1,0 +1,6 @@
+*.jar
+*.pdf
+*.xlsx
+*.txt
+test.circ
+cpu-checker
