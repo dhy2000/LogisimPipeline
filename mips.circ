@@ -4312,7 +4312,7 @@
     <comp lib="0" loc="(110,150)" name="Pin">
       <a name="width" val="2"/>
       <a name="tristate" val="false"/>
-      <a name="label" val="Scale"/>
+      <a name="label" val="Sz"/>
     </comp>
     <comp lib="0" loc="(160,70)" name="Pull Resistor"/>
     <comp lib="6" loc="(82,347)" name="Text">
@@ -4321,7 +4321,7 @@
     </comp>
     <comp lib="0" loc="(170,150)" name="Tunnel">
       <a name="width" val="2"/>
-      <a name="label" val="Scale"/>
+      <a name="label" val="Sz"/>
     </comp>
     <comp lib="0" loc="(270,310)" name="Constant">
       <a name="width" val="4"/>
@@ -4340,7 +4340,7 @@
     <comp lib="0" loc="(380,320)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="2"/>
-      <a name="label" val="Scale"/>
+      <a name="label" val="Sz"/>
     </comp>
     <comp lib="6" loc="(229,40)" name="Text">
       <a name="text" val="Input"/>
